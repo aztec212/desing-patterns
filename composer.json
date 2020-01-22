@@ -1,0 +1,16 @@
+{
+    "name": "aztec212/desing-patterns",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksey Taranenko",
+            "email": "at.aztec@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Strategy\\": "strategy/"
+        }
+    }
+}
