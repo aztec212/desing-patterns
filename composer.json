@@ -1,5 +1,6 @@
 {
     "name": "aztec212/desing-patterns",
+    "description": "Desing patterns examples",
     "license": "MIT",
     "authors": [
         {
@@ -10,7 +11,8 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Strategy\\": "strategy/"
+            "Strategy\\": "strategy/",
+            "Observer\\": "observer/"
         }
     }
 }
