@@ -6,9 +6,9 @@ use Strategy\Contracts\FlyBehaviorContract;
 
 class FlyWithWings implements FlyBehaviorContract
 {
-    public function fly()
+    public function fly() : void
     {
         // реализация полета
-        echo "I'm flying!!\r\n";
+        echo "I'm flying!!" . PHP_EOL;
     }
 }

@@ -6,8 +6,8 @@ use Strategy\Contracts\FlyBehaviorContract;
 
 class FlyRocketPowered implements FlyBehaviorContract
 {
-    public function fly()
+    public function fly() : void
     {
-        echo "I'm flying with a rocket!\r\n";
+        echo "I'm flying with a rocket!" . PHP_EOL;
     }
 }

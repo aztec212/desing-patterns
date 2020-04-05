@@ -4,5 +4,5 @@ namespace Strategy\Contracts;
 
 interface FlyBehaviorContract
 {
-    public function fly();
+    public function fly() : void;
 }

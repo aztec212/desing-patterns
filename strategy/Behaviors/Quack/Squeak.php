@@ -6,9 +6,8 @@ use Strategy\Contracts\QuackBehaviorContract;
 
 class Squeak implements QuackBehaviorContract
 {
-    public function quack()
+    public function quack() : void
     {
-        // Резиновые утки пищат
-        echo "Squeak\r\n";
+        echo "Squeak" . PHP_EOL;
     }
 }

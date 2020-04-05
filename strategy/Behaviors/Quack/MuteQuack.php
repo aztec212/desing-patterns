@@ -6,9 +6,8 @@ use Strategy\Contracts\QuackBehaviorContract;
 
 class MuteQuack implements QuackBehaviorContract
 {
-    public function quack()
+    public function quack() : void
     {
-        // Неквакабельный
-        echo "<< silence >>\r\n";
+        echo "<< silence >>" . PHP_EOL;
     }
 }

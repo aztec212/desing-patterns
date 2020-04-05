@@ -4,5 +4,5 @@ namespace Strategy\Contracts;
 
 interface QuackBehaviorContract
 {
-    public function quack();
+    public function quack() : void;
 }

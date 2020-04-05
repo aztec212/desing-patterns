@@ -6,9 +6,8 @@ use Strategy\Contracts\FlyBehaviorContract;
 
 class FlyNoWay implements FlyBehaviorContract
 {
-    public function fly()
+    public function fly() : void
     {
-        // нелетабельный
-        echo "I can't fly\r\n";
+        echo "I can't fly" . PHP_EOL;
     }
 }
