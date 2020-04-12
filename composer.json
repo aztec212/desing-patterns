@@ -12,7 +12,8 @@
     "autoload": {
         "psr-4": {
             "Strategy\\": "strategy/",
-            "Observer\\": "observer/"
+            "Observer\\": "observer/",
+            "Decorator\\": "decorator/"
         }
     }
 }
