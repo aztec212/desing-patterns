@@ -14,8 +14,9 @@
             "Strategy\\": "strategy/",
             "Observer\\": "observer/",
             "Decorator\\": "decorator/",
-            "SimpleFactory\\": "simple-factory/",
-            "FactoryMethod\\": "factory-method/"
+            "SimpleFactory\\": "factory/simple-factory/",
+            "FactoryMethod\\": "factory/factory-method/",
+            "AbstractFactory\\": "factory/abstract-factory/"
         }
     }
 }

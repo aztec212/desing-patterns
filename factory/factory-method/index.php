@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/../../vendor/autoload.php';
 
 use FactoryMethod\Stores\Chicago\ChicagoStylePizzaStore;
 use FactoryMethod\Stores\NY\NYStylePizzaStore;
