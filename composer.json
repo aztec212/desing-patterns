@@ -13,7 +13,8 @@
         "psr-4": {
             "Strategy\\": "strategy/",
             "Observer\\": "observer/",
-            "Decorator\\": "decorator/"
+            "Decorator\\": "decorator/",
+            "SimpleFactory\\": "simple-factory/"
         }
     }
 }
