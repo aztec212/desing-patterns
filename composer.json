@@ -16,7 +16,8 @@
             "Decorator\\": "decorator/",
             "SimpleFactory\\": "factory/simple-factory/",
             "FactoryMethod\\": "factory/factory-method/",
-            "AbstractFactory\\": "factory/abstract-factory/"
+            "AbstractFactory\\": "factory/abstract-factory/",
+            "Singleton\\": "singleton/"
         }
     }
 }
