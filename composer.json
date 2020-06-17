@@ -17,7 +17,8 @@
             "SimpleFactory\\": "factory/simple-factory/",
             "FactoryMethod\\": "factory/factory-method/",
             "AbstractFactory\\": "factory/abstract-factory/",
-            "Singleton\\": "singleton/"
+            "Singleton\\": "singleton/",
+            "Command\\": "command/"
         }
     }
 }

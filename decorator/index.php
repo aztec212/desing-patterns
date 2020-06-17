@@ -1,13 +1,13 @@
 <?php
 
+require __DIR__ . '/../vendor/autoload.php';
+
 use Decorator\Additives\Mocha;
 use Decorator\Additives\Soy;
 use Decorator\Additives\Whip;
 use Decorator\Beverages\DarkRoast;
 use Decorator\Beverages\Espresso;
 use Decorator\Beverages\HouseBlend;
-
-require __DIR__ . '/../vendor/autoload.php';
 
 $beverage = new Espresso();
 echo $beverage->getDescription() . ' $' . $beverage->cost() . PHP_EOL;
