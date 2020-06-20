@@ -18,7 +18,8 @@
             "FactoryMethod\\": "factory/factory-method/",
             "AbstractFactory\\": "factory/abstract-factory/",
             "Singleton\\": "singleton/",
-            "Command\\": "command/"
+            "Command\\": "command/",
+            "Adapter\\": "adapter/"
         }
     }
 }
