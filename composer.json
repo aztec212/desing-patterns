@@ -19,7 +19,8 @@
             "AbstractFactory\\": "factory/abstract-factory/",
             "Singleton\\": "singleton/",
             "Command\\": "command/",
-            "Adapter\\": "adapter/"
+            "Adapter\\": "adapter/",
+            "Facade\\": "facade/"
         }
     }
 }
