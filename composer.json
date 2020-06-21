@@ -20,7 +20,8 @@
             "Singleton\\": "singleton/",
             "Command\\": "command/",
             "Adapter\\": "adapter/",
-            "Facade\\": "facade/"
+            "Facade\\": "facade/",
+            "TemplateMethod\\": "template-method/"
         }
     }
 }
